@@ -2,7 +2,7 @@
 
 -----------
 
-Want to order food from a resturant with your friends and find it difficult? Use Yalla Notlob!<br/>
+Want to order food from a restaurant with your friends and find it difficult? Use Yalla Notlob!<br/>
 Yalla Notlob makes it so easy for you and your friends to enjoy EATING and forget about the painful 
 process of organizing huge food order details.<br/>
 To get an overall view of the features of the website go to [Features](#Features)
